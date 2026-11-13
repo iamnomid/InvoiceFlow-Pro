@@ -67,4 +67,7 @@ Visit `http://localhost:8501` in your browser.
 
 **5. Test the application**
 
-Upload the synthetic PDF invoices provided in the `samples` folder.
+Upload the synthetic PDF invoices provided in the `samples` folder.git add README.md
+## Application Dashboard
+
+![InvoiceFlow Pro Dashboard](screenshots/dashboard.png)
